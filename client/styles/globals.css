@@ -1,1 +1,13 @@
 @import './modern-normalize.css';
+
+:root {
+  --primary: #3d3b8e;
+  --secondary: #3d3b8e;
+  --off-white: #f1f1f9;
+  --off-black: #18183a;
+  --shadow: 10px 10px 30px #18183a10;
+}
+
+body {
+  background-color: var(--off-white);
+}
