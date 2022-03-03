@@ -1,8 +1,26 @@
 [
   {
     "id": 1,
-    "name": "GTX 1070",
-    "manufacturer": "Nvidia",
-    "price": "$800.00"
+    "title": "MSI GeForce GTX 1070 8GB GDDR5 PCI Express 3.0 x16 SLI Support ATX Video Card GTX 1070 GAMING 8G",
+    "brand": "MSI",
+    "price": "$800.00",
+    "slots": "PCI Express 3.0 x16",
+    "vram": "8gb",
+    "gddr": "GDDR5",
+    "bits": "256",
+    "MHz": "1708",
+    "img": "https://c1.neweggimages.com/ProductImageCompressAll1280/14-127-947-S99.jpg"
+  },
+  {
+    "id": 2,
+    "title": "ASUS ROG STRIX NVIDIA GEFORCE RTX 3080 TI OC EDITION GAMING GRAPHICS CARD",
+    "brand": "ASUS",
+    "price": "$9999.99",
+    "slots": "PCI Express x16",
+    "vram": "12gb",
+    "gddr": "GDDR6X",
+    "bits": "384",
+    "MHz": "4000",
+    "img": "/images/asus-rog-gpu.jpg"
   }
 ]
