@@ -1,6 +1,7 @@
-import style from './GpuCard.module.css'
 import Image from 'next/image'
 import HeartIcon from '../../public/icons/heart.svg'
+
+import style from './GpuCard.module.css'
 
 export default function GpuCard() {
   return (
