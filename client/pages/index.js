@@ -1,4 +1,5 @@
 import Head from 'next/head'
+
 import GpuListings from '../components/gpu-listings/GpuListings'
 
 export default function Home() {
