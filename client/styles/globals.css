@@ -1,16 +1,13 @@
-html,
+@import './modern-normalize.css';
+
+:root {
+  --primary: #3d3b8e;
+  --secondary: #3d3b8e;
+  --off-white: #f1f1f9;
+  --off-black: #18183a;
+  --shadow: 10px 10px 30px #18183a10;
+}
+
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
+  background-color: var(--off-white);
 }

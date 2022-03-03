@@ -1,0 +1,44 @@
+.wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  padding: 2rem;
+  box-shadow: var(--shadow);
+  width: 250px;
+  flex: 0 0 250px;
+}
+
+.divider {
+  color: var(--off-white);
+  opacity: 30%;
+  margin: 1rem 0;
+}
+
+.brand {
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.title {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.specs {
+  font-size: 0.8rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.icon {
+  stroke: var(--off-black);
+  width: 20px;
+  height: 20px;
+}
