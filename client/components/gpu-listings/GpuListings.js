@@ -1,5 +1,6 @@
-import style from './GpuListings.module.css'
 import GpuCard from './GpuCard'
+
+import style from './GpuListings.module.css'
 
 export default function GpuListings() {
   return (
