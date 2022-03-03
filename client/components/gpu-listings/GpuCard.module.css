@@ -3,8 +3,8 @@
   overflow: hidden;
   padding: 2rem;
   box-shadow: var(--shadow);
-  min-width: 250px;
   width: 250px;
+  flex: 0 0 250px;
 }
 
 .divider {
