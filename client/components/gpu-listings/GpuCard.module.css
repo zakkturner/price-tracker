@@ -7,6 +7,10 @@
   flex: 0 0 250px;
 }
 
+.image {
+  object-fit: contain;
+}
+
 .divider {
   color: var(--off-white);
   opacity: 30%;
